@@ -7,11 +7,11 @@ if you want to use it, email me <a href="mailto:nanife@linegap.com">nanife (at) 
 
 * 설명(explanations)
 
-<b>① 그리드(Grids)<b> : 그리드 켜기 / 끄기 (turn on/off grids on preview window)<br>
-<b>② 텍스트 방향(text direction: horizontal or vertical)<b> : 미리보기할 텍스트의 방향(text direction : horizontal or vertical)<br>
-<b>③ 텍스트 회전(rotate glyphs)<b> : 세로쓰기에서 텍스트 회전해서 보기(rotate glyphs in vertical direction : texts can be set through ⑥) <br>
-<b>④ 텍스트 크기(text size)<b> : 미리보기할 텍스트 크기(text size to preview : in 1000 upm)<br>
-<b>⑤ 행간(linegap)<b> : 텍스트 사이의 행간(linegap value between rows or columns)<br>
-<b>⑥ 회전할 글립들 입력(glyphs to roate in vertical mode)<b> : 세로방향에서 회전할 글립들 입력 - 글립 이름을 쉼표(,)로 구분해 복사해 붙여넣기(glyph names to roate in vertical directions : can be input with the comma(,) separated glyph names)<br>
-<b>⑦ 언어(language)<b> : 언어 설정(language selection between Korean and English)<br>
-<b>⑧ 글립 바로가기(open a glyph to edit)<b> : 더블클릭으로 편집할 글립 바로가기(open glyph with double click)<br>
+<b>① 그리드(Grids)</b> : 그리드 켜기 / 끄기 (turn on/off grids on preview window)<br>
+<b>② 텍스트 방향(text direction: horizontal or vertical)</b> : 미리보기할 텍스트의 방향(text direction : horizontal or vertical)<br>
+<b>③ 텍스트 회전(rotate glyphs)</b> : 세로쓰기에서 텍스트 회전해서 보기(rotate glyphs in vertical direction : texts can be set through ⑥) <br>
+<b>④ 텍스트 크기(text size)</b> : 미리보기할 텍스트 크기(text size to preview : in 1000 upm)<br>
+<b>⑤ 행간(linegap)</b> : 텍스트 사이의 행간(linegap value between rows or columns)<br>
+<b>⑥ 회전할 글립들 입력(glyphs to roate in vertical mode)</b> : 세로방향에서 회전할 글립들 입력 - 글립 이름을 쉼표(,)로 구분해 복사해 붙여넣기(glyph names to roate in vertical directions : can be input with the comma(,) separated glyph names)<br>
+<b>⑦ 언어(language)</b> : 언어 설정(language selection between Korean and English)<br>
+<b>⑧ 글립 바로가기(open a glyph to edit)</b> : 더블클릭으로 편집할 글립 바로가기(open glyph with double click)<br>
