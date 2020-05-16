@@ -26,3 +26,6 @@ if you want to use it, email me <a href="mailto:nanife@linegap.com">nanife (at) 
 <b>세로방향에서 회전할 글립 설정(set rotating glyphs)</b>
 ![setRotatingGlyphs](./simplePreview_Glyphs2Rotate.png)<br>
 세로방향에서 회전할 글립들은 폰트 창에서 글립들의 이름을 쉼표(,)로 구분하여 복사해 넣으면 된다.(insert comma(,) separated glyph names to preview rotated glyphs in vertical direction view.)
+
+
+<a href="https://www.youtube.com/watch?v=4jDmnh5QufA&feature=youtu.be" target="_blank">동영상 보기 (view in youtube)</a>
