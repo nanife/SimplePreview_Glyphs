@@ -7,7 +7,7 @@ if you want to use it, email me <a href="mailto:nanife@linegap.com">nanife (at) 
 
 <br><br>
 * 설명(explanations)
-![mainView](./simplePreview_main.png)
+![mainView](./simplePreview_main.png)<br>
 <b>① 그리드(Grids)</b> : 그리드 켜기 / 끄기 (turn on/off grids on preview window)<br>
 <b>② 텍스트 방향(text direction: horizontal or vertical)</b> : 미리보기할 텍스트의 방향(text direction : horizontal or vertical)<br>
 <b>③ 텍스트 회전(rotate glyphs)</b> : 세로쓰기에서 텍스트 회전해서 보기(rotate glyphs in vertical direction : texts can be set through ⑥) <br>
