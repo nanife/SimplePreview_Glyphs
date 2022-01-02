@@ -2,7 +2,7 @@
 글립스(Glyphs)에서 글립 편집창에서 편집 중인 글립들을 미리볼 수 있는 플러그인입니다. (15일 데모 버전이며, 정식 등록은 메일로 문의해 주십시오.)
 
 This is a plugin for Glyphs that let you preview glyphs you are editting in Glyphs' edit view. It is a demo version that works for 15 days, and you need authorization to use full versions.
-if you want to use it, email me <a href="mailto:nanife@linegap.com">nanife (at) linegap.com</a><br>
+if you want to use it, email me <a href="mailto:nanife@live.com">nanife (at) live.com</a><br>
 ![preview](./simplePreview_preview.png)
 
 <br><br>
