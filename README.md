@@ -1,3 +1,9 @@
+## 업그레이드(upgraded to v2.6)
+- 플러그인 형태를 스크립트 형태로 변환 (converted the plugin format into the script format)<br>
+- 스크립트(유료) 버전 설치는 글립스의 <i>"창 > 플러그인 관리자 > 스크립트 > 라인갭 스크립트"</i>를 통해 설치할 수 있습니다.(You can install the paid script version on <i>"Windows > Plugin Manager > Scripts > Linegap's Scripts"</i>)<br><br>
+- 업데이트는 <a href="http://www.linegap.com" target="_blank">라인갭 홈페이지</a>를 통해 문의해 주십시오.(Visit <a href="http://www.linegap.com" target="_blank">Linegap site</a> and contact me to update.)<br><br>
+
+
 # SimplePreview_Glyphs
 글립스(Glyphs)에서 글립 편집창에서 편집 중인 글립들을 미리볼 수 있는 플러그인으로, 플러그인 관리자에서 설치할 수 있습니다.(15일 데모 버전이며, 정식 등록은 메일로 문의해 주십시오.)
 
